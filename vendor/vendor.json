@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "iIUYZyoanCQQTUaWsu8b+iOSPt4=",
+			"path": "github.com/gorilla/context",
+			"revision": "215affda49addc4c8ef7e2534915df2c8c35c6cd",
+			"revisionTime": "2014-12-17T16:02:51Z"
+		},
+		{
+			"checksumSHA1": "1GO/QR64haSUMt3eE592uufS1iU=",
+			"path": "github.com/gorilla/mux",
+			"revision": "47e8f450ef38c857cdd922ec08862ca9d65a1c6d",
+			"revisionTime": "2015-05-30T19:53:56Z"
+		}
+	],
+	"rootPath": "github.com/almakinah/gobot"
+}
