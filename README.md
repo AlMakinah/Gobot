@@ -13,10 +13,10 @@ This project uses [GoVendor](https://github.com/kardianos/govendor) to handle
 dependencies:
 
 ```
-go get -u github.com/kardianos/govendor
+$ go get -u github.com/kardianos/govendor
 ```
 
-Before building run `govendor install +local`
+Before building run `$ govendor install +local`
 
 # Before running
 
@@ -25,6 +25,6 @@ verification token you set in your facebook developer dashboard and the page
 access token:
 
 ```
-export GOBOT_VERIFICATION_TOKEN=VERIFICATION_TOKEN
-export GOBOT_PAGE_ACCESS_TOKEN=PAGE_ACCESS_TOKEN
+$ export GOBOT_VERIFICATION_TOKEN=VERIFICATION_TOKEN
+$ export GOBOT_PAGE_ACCESS_TOKEN=PAGE_ACCESS_TOKEN
 ```
